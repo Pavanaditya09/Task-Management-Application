@@ -1,0 +1,36 @@
+.filter-header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-right: 100px;
+  padding: 20px;
+}
+
+.filters {
+  display: flex;
+  margin-right: 30px;
+  align-items: center;
+}
+
+.task-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.count {
+  background-color: skyblue;
+  font-size: 10px;
+  border-radius: 7px;
+  margin-bottom: 10px;
+  padding: 10px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
