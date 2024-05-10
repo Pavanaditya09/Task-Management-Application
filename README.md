@@ -1,7 +1,7 @@
 1.Clone the Repository:
 Clone the repository containing the React application code from the GitHub repository.
 
-# git clone <repository_url>
+# git clone https://github.com/Pavanaditya09/Task-Management-Application.git
 
 2.Navigate to the Project Directory:
 
